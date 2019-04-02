@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.security</groupId>
-    <artifactId>security-token</artifactId>
+    <artifactId>security-authentication</artifactId>
 
     <packaging>jar</packaging>
 
