@@ -5,7 +5,7 @@ services:
     ports:
       - "5432:5432"
     environment:
-      - POSTGRES_DB=resteasy
+      - POSTGRES_DB=token
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=postgres
       - MAX_CONNECTIONS=300
